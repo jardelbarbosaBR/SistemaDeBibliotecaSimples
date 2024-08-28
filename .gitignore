@@ -1,0 +1,34 @@
+# Arquivos gerados pelo Maven
+/target
+/build
+
+# Arquivos do Eclipse
+/.metadata
+/.project
+.classpath
+/.settings
+*.index
+*.tasks
+
+# Arquivos gerados pelo Eclipse
+*.class
+*.bak
+
+# Arquivos de configuração locais
+config.local.properties
+config.properties
+
+# Arquivos de cache
+/.cache
+.idea/workspace.xml
+
+# Arquivos de logs
+*.log
+
+# Arquivos de backup
+*.swp
+*~
+
+# Arquivos temporários
+tmp*
+/target
