@@ -40,7 +40,7 @@ O **SBS (Sistema de Biblioteca Simples)** é uma aplicação básica desenvolvid
 ## Configuração do Banco de Dados
 
 1. Instale o PostgreSQL e crie um banco de dados para o sistema.
-2. Configure as credenciais de acesso ao banco de dados no arquivo `gitconfig.properties` localizado em `src/main/resources`.
+2. Configure as credenciais de acesso ao banco de dados no arquivo `gitconfig.properties` e renomeia para `config.properties`localizado em `src/main/resources`.
 
 ```properties
 DB_URL= jdbc:postgresql://localhost:port/database_name
